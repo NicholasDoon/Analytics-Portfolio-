@@ -25,4 +25,4 @@ This analysis is based on historical data and does not account for real-time ope
 - Python (pandas, scikit-learn, matplotlib)
 
 ## Files
-- notebooks/lounge_eligibility_analysis.ipynb
+british-airways-lounge-eligibility/Predicting Consumer Buying Behavior Modelling.ipynb
